@@ -12,7 +12,7 @@ Welcome to the official GitHub repository of BlackTIDES 🚀, a vibrant communit
 
 ## Get Involved
 Whether you are a student, a professional, or simply passionate about data, there is a place for you in our organization. Here's how you can get involved:
-- Join Our Events 📅: Keep an eye on our https://www.eventbrite.com/organizations/events for upcoming coding sessions, training workshops, and more.
+- Join Our Events 📅: Keep an eye on our X/Twitter and LinkedIn pages for upcoming coding sessions, training workshops, and more.
 - Participate in Coding Games 🧩: Stay tuned for our coding games to take part in exciting challenges and win cool prizes!
 
 ## Stay Connected
