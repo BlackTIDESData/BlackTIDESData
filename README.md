@@ -26,7 +26,7 @@ Whether you are a student, a professional, or simply passionate about data, ther
 - Thank you for visiting, we look forward to connecting with you soon!
 
 Yours in Data,
-BlackTIDES
+BlackTIDES Data
 
 
 
