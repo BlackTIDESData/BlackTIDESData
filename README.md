@@ -1,7 +1,7 @@
 # Welcome to BlackTIDES Data - Supporting Current and Future Black Data Professionals 🌟
 
 ## About Us
-Welcome to the official GitHub repository of BlackTIDES 🚀, a vibrant community dedicated to nurturing and empowering current and future Black data professionals. Our mission is to create a supportive and inclusive environment that fosters growth, learning, and collaboration in the field of data science and analytics.
+Welcome to the official GitHub repository of BlackTIDES Data 🚀, a vibrant community dedicated to nurturing and empowering current and future Black data professionals. Our mission is to create a supportive and inclusive environment that fosters growth, learning, and collaboration in the field of data science and analytics.
 
 ## What We Do
 - Sponsoring Code/Training Events 💻: We actively sponsor and organize events focused on coding and training to help our members enhance their technical skills.
