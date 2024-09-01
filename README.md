@@ -17,9 +17,15 @@ Whether you are a student, a professional, or simply passionate about data, ther
 
 ## Stay Connected
 - Follow us on Social Media 📱: Stay updated with our latest news and events.
+  - [Threads](https://www.threads.net/@blacktidesdata)
+    
+  - [LinkedIn](https://www.linkedin.com/company/69347851/admin/feed/posts/)
+  
   - [Twitter](https://twitter.com/BlackTIDES1/status/1725570952358981999) 
 
-  - [LinkedIn](https://www.linkedin.com/company/69347851/admin/feed/posts/) 
+ 
+ 
+
 
 - Contact Us 📧: For any inquiries, feel free to reach out at: contact@blacktidesdata.com
 
