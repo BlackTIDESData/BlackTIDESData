@@ -1,4 +1,6 @@
-# Welcome to BlackTIDES Data (BTD) - Supporting Current and Future Black Data Professionals 🌟
+# Hello Black Data World!
+
+Welcome to BlackTIDES Data (BTD) - Supporting Current and Future Black Data Professionals 🌟
 
 ## About Us
 Welcome to the official GitHub repository of BlackTIDES Data 🚀, a vibrant community dedicated to nurturing and empowering current and future Black data professionals. Our mission is to create a supportive and inclusive environment that fosters growth, learning, and collaboration in the field of data science and analytics.
